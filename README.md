@@ -37,17 +37,17 @@
 
 6、繪製「登錄註冊」模組的活動圖;
 
-五、繪製用例圖
+五、繪製用例圖  
 ![1](https://github.com/user-attachments/assets/f64e0b6b-807a-453e-9cb2-800564bc3ad6)
-![2](https://github.com/user-attachments/assets/7152f222-17ef-43f1-9dd9-4dbc6ff0374c)
-六、繪製類圖
-![3](https://github.com/user-attachments/assets/2c17f887-4873-4411-ac0e-4896b97979c1)
-七、繪製狀態圖
-![4](https://github.com/user-attachments/assets/6ce845c4-8aca-4762-af05-54a7b7364466)
-八、繪製順序圖
-![5](https://github.com/user-attachments/assets/20da7d40-39f5-4d87-8143-c1aef6d34a92)
-九、繪製活動圖
-![6](https://github.com/user-attachments/assets/a7cda8fa-5d77-4596-9bc1-06ecbfcafca3)
+![2](https://github.com/user-attachments/assets/7152f222-17ef-43f1-9dd9-4dbc6ff0374c)  
+六、繪製類圖  
+![3](https://github.com/user-attachments/assets/2c17f887-4873-4411-ac0e-4896b97979c1)  
+七、繪製狀態圖  
+![4](https://github.com/user-attachments/assets/6ce845c4-8aca-4762-af05-54a7b7364466)  
+八、繪製順序圖  
+![5](https://github.com/user-attachments/assets/20da7d40-39f5-4d87-8143-c1aef6d34a92)  
+九、繪製活動圖  
+![6](https://github.com/user-attachments/assets/a7cda8fa-5d77-4596-9bc1-06ecbfcafca3)  
 十、實驗中遇到的問題及解決方法
 1.類識別不清晰： 識別系統中的類可能會有一定困難，特別是在複雜系統中。 解決方法是通過需求分析和系統設計，仔細考慮系統中涉及的各種實體，包括書籍、顧客、訂單等，以幫助確定需要的類。
 
